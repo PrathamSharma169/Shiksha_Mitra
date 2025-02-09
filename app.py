@@ -3,7 +3,7 @@
 # from PIL import Image  
 
 # # Configure the API
-# api_key = "AIzaSyCCyxcLbVJCTFMz-vncL-YBh4cT317A2lc"
+# api_key = 
 # if not api_key:
 #     raise ValueError("GOOGLE_API_KEY environment variable not set.")
 # genai.configure(api_key=api_key)
