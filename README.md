@@ -1,6 +1,6 @@
-# 🎓 ShikshMitra: Your Smart Educational Companion
+# 🎓 ShikshaMitra: Your Smart Educational Companion
 
-ShikshMitra is a next-gen educational ecosystem built to bridge the gap between **students**, **teachers**, and **institutions** through technology. Designed with a mission to revolutionize learning in schools, colleges, and rural areas, ShikshMitra provides a **smart, connected, and collaborative** educational experience.
+ShikshaMitra is a next-gen educational ecosystem built to bridge the gap between **students**, **teachers**, and **institutions** through technology. Designed with a mission to revolutionize learning in schools, colleges, and rural areas, ShikshMitra provides a **smart, connected, and collaborative** educational experience.
 
 ---
 
